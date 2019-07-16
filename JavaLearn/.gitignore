@@ -1,6 +1,4 @@
-/data2.txt
-/data3.txt
-/data.txt
+*.txt
 /.classpath
 /.project
 /bin
